@@ -1,0 +1,1 @@
+C:\Users\livan\Documents\GitHub\Kotlingame\Game adventure\src\main\kotlin\story beginning.kts
