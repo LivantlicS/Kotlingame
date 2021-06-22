@@ -1,6 +1,6 @@
-open class Room(val name: String) {
+open class Room(name: String, hp: Int) : Person(name, hp) {
 
-    fun player() {
+    fun choosingDirection() {
         println("ik ben ")
     }
 }

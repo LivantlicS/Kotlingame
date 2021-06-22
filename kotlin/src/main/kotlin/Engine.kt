@@ -1,6 +1,6 @@
-class Engine(name: String): Room(name) {
+/*class Engine(name: String): Room(name) {
     fun console() {
 
     }
 
-}
+}*/
